@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 			
-			//My first dummy commit
+			//My first dummy commit - to pull
 			@FindBy(xpath="//*[@id='welcome']")
 			private WebElement userMenu;
 			
